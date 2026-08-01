@@ -16,7 +16,6 @@ Learning Offensive Security, Detection Engineering and Threat Hunting.
 
 - 🎓 B.Tech Computer Science @ GSFC University
 - 🛡️ Passionate about Cybersecurity
-- 🔍 Currently preparing for CPENT
 - 💻 Building security tools using Python & Django
 - 🌱 Learning Active Directory & Windows Internals
 
@@ -35,9 +34,7 @@ Learning Offensive Security, Detection Engineering and Threat Hunting.
 ## 🚀 Current Projects
 
 - 🛡️ SentinelSIEM
-- 📖 CyberWrite
-- 🔍 Windows Event Log Collector
-- ⚡ Detection Rules Engine
+- 📖 SecDocs
 
 ---
 
