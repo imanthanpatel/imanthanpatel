@@ -42,9 +42,9 @@ Learning Offensive Security, Detection Engineering and Threat Hunting.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=imanthanpatel&show_icons=true&theme=github_dark"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanthanpatel&layout=compact&theme=github_dark"/>
 
 </p>
 
@@ -54,7 +54,7 @@ Learning Offensive Security, Detection Engineering and Threat Hunting.
 
 <p>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
-<a href="mailto:YOUR_EMAIL">Email</a>
+<a href="https://linkedin.com/in/manthan24">LinkedIn</a> •
+<a href="mailto:manthan002408@gmail.com">Email</a>
 
 </p>
