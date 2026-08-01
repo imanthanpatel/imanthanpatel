@@ -79,8 +79,6 @@ Learning Offensive Security, Detection Engineering, Threat Hunting and building 
 
 ⭐ SentinelSIEM
 
-⭐ CyberWrite
-
 ⭐ SecDocs
 
 ---
