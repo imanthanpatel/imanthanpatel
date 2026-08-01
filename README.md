@@ -46,7 +46,13 @@ Learning Offensive Security, Detection Engineering, Threat Hunting and building 
 
 # 📊 GitHub Stats
 
+<p align="center">
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=imanthanpatel&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanthanpatel&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
 
 <p align="center">
 
@@ -56,15 +62,7 @@ Learning Offensive Security, Detection Engineering, Threat Hunting and building 
 
 ---
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=imanthanpatel&theme=darkhub&no-frame=true&margin-w=15&row=1"/>
-
-</p>
-
----
 
 # 📚 Currently Learning
 
